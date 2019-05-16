@@ -9,3 +9,5 @@ __MAXCOSX/
 bkp/
 /Papers
 /Word_Embedding_Model/
+*.npy
+*.model
